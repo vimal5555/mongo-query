@@ -1,0 +1,256 @@
+(node:12392) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:12432) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:9868) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:14988) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:11772) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:19908) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:11560) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:17796) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
+Error: Cannot find module 'express'
+Require stack:
+- D:\backend\mongo-query\tas\App.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Module.Hook._require.Module.require (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (D:\backend\mongo-query\tas\App.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Object.<anonymous> (C:\Users\mario\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\backend\\mongo-query\\tas\\App.js' ]
+}
